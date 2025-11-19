@@ -6,7 +6,11 @@ I developed a camera-relative flight system enabling intuitive superhero-style a
 
 This project implements a fully-functional flight system that prioritizes **intuitive player control** through camera-relative input. The character naturally follows camera orientation for vertical movement, eliminating the need for separate keys like Q/E for up/down control.
 
-[Recording 2025-11-19 194425](https://github.com/user-attachments/assets/67972ec7-0f63-42c8-8ce2-ce0e83186540)
+
+
+https://github.com/user-attachments/assets/7763b20a-e59e-40ae-a261-a6db67b81edf
+
+
 
 ## Key Features!
 
